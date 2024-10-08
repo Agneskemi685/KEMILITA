@@ -1,6 +1,12 @@
 # KEMILITA
 This is where I documented my first project while learning data analysis with the Incubator Hub
-## LITA_CLASS DOCUMENTATION
-excel overview. this aims to getnerate in sight on how to work on sheet and examine
+## LITA_CLASS DOCUMENTATION [ downloaod here]. 
+- excel overview. this aims to getnerate in sight on how to work on sheet and examine
+  ```
 ## data sources
-The primary source of data sale
+- The primary source of data sale
+### Tools Used
+- microsoft excel for data cleaning and analysis.
+### data cleaning and preparation.
+``` SQL
+SELECT * FROM TABLE
